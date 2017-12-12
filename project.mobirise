@@ -1,13 +1,14 @@
 {
   "settings": {
     "name": "Lac Hong Asia-& Teeladen",
-    "currentPage": "lachongstandort.html",
+    "currentPage": "lachongüberuns.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 92,
     "versionPublish": "4.5.2",
     "theme": {
       "additionalSetColors": [
-        "#3c3c3c"
+        "#3c3c3c",
+        "#584c48"
       ]
     },
     "favicon": "@PROJECT_PATH@/assets/images/kochenkurs1-128x96.png",
@@ -29,8 +30,8 @@
             "hideButtons": false,
             "sticky": false,
             "transparent": true,
-            "bgColor": "#a38f84",
-            "fontSize": "1.6",
+            "bgColor": "#4c6972",
+            "fontSize": "1",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
@@ -38,7 +39,7 @@
             },
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page3.html\" aria-expanded=\"false\">Angebote</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lachongteeseminar.html#content5-1t\">Teekultur</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#content5-20\" aria-expanded=\"false\" target=\"_blank\">Teeseminare<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lachongkochkultur.html#content5-28\">Kochkultur</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LachongKochkurs.html#content5-2d\" target=\"_blank\">Kochkurse</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Kursanmeldung online</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LachongKochkurs.html#form1-2e\" target=\"_blank\">Kochkurs&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#form1-24\" target=\"_blank\">Teeseminar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lachongstandort.html#contacts2-s\">Kontakt</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lachong_standort.html#contacts2-s\">Facebook</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lachongimpressum.html#content1-1o\">Impressum</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link-outline btn-link\" href=\"lachongstandort.html#contacts2-s\">Standort</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"lachongüberuns.html#header1-10\">Über uns</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page3.html\" aria-expanded=\"false\">Unser Sortiment</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lachongteeseminar.html#content5-1t\">Teekultur</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#content5-20\" aria-expanded=\"false\" target=\"_blank\">Teeseminare<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lachongkochkultur.html#content5-28\">Kochkultur</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LachongKochkurs.html#content5-2d\" target=\"_blank\">Kochkurse</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Kursanmeldung online</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LachongKochkurs.html#form1-2e\" target=\"_blank\">Kochkurs&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#form1-24\" target=\"_blank\">Teeseminar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lachongstandort.html#contacts2-s\">Kontakt</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lachongimpressum.html#content1-1o\">Impressum</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link-outline btn-link\" href=\"lachongstandort.html#contacts2-s\">Standort</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"lachongüberuns.html#header1-10\">Über uns</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -48,16 +49,16 @@
             },
             ".navbar-brand a": {},
             ".nav .link, .dropdown-item": {
-              "font-size": "1.6em",
+              "font-size": "1em",
               "color": "#000000",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "font-family": "'Oswald', sans-serif"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#a38f84"
+              "background": "#4c6972"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#9a8478"
+              "background": "#445e66"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -84,7 +85,7 @@
         },
         {
           "_params": {
-            "paddingTop": "4",
+            "paddingTop": "3",
             "paddingBottom": "4",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1363x1080.jpg",
@@ -92,8 +93,8 @@
             "bgColorRadio": false,
             "bgColor": "#3c3c3c",
             "overlay": true,
-            "overlayColor": "#3c3c3c",
-            "overlayOpacity": "0.8",
+            "overlayColor": "#584c48",
+            "overlayOpacity": "0.7",
             "googleMap": {
               "address": "Lac Hong Karlsruhe",
               "placeId": "ChIJA_QsCkgGl0cRXoQuUhQn41c",
@@ -102,7 +103,7 @@
             }
           },
           "text1": "<strong>ADRESSE</strong><br>\nKronenstraße 30<br>Innenstadt-Ost<br>\n76133 Karlsruhe<br><br>\n<b>Kontakt</b><br>\nEmail: lachong@tonline.com<br>\nPhone: +49 721 853911<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li>Facebook</li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.facebook.com/pages/Lac-Hong/842592752546337\" target=\"_blank\" class=\"text-info\">Facebook</a></li></ul>",
           "_tags": [
             "Theme"
           ],
@@ -135,8 +136,8 @@
             "hideButtons": false,
             "sticky": false,
             "transparent": true,
-            "bgColor": "#a38f84",
-            "fontSize": "1.6",
+            "bgColor": "#4c6972",
+            "fontSize": "1",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
@@ -144,7 +145,7 @@
             },
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page3.html\" aria-expanded=\"false\">Angebote</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lachongteeseminar.html#content5-1t\">Teekultur</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#content5-20\" aria-expanded=\"false\" target=\"_blank\">Teeseminare<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lachongkochkultur.html#content5-28\">Kochkultur</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LachongKochkurs.html#content5-2d\" target=\"_blank\">Kochkurse</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Kursanmeldung online</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LachongKochkurs.html#form1-2e\" target=\"_blank\">Kochkurs&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#form1-24\" target=\"_blank\">Teeseminar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lachongstandort.html#contacts2-s\">Kontakt</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lachong_standort.html#contacts2-s\">Facebook</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lachongimpressum.html#content1-1o\">Impressum</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link-outline btn-link\" href=\"lachongstandort.html#contacts2-s\">Standort</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"lachongüberuns.html#header1-10\">Über uns</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page3.html\" aria-expanded=\"false\">Unser Sortiment</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lachongteeseminar.html#content5-1t\">Teekultur</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#content5-20\" aria-expanded=\"false\" target=\"_blank\">Teeseminare<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lachongkochkultur.html#content5-28\">Kochkultur</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LachongKochkurs.html#content5-2d\" target=\"_blank\">Kochkurse</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Kursanmeldung online</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LachongKochkurs.html#form1-2e\" target=\"_blank\">Kochkurs&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#form1-24\" target=\"_blank\">Teeseminar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lachongstandort.html#contacts2-s\">Kontakt</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lachongimpressum.html#content1-1o\">Impressum</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link-outline btn-link\" href=\"lachongstandort.html#contacts2-s\">Standort</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"lachongüberuns.html#header1-10\">Über uns</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -154,16 +155,16 @@
             },
             ".navbar-brand a": {},
             ".nav .link, .dropdown-item": {
-              "font-size": "1.6em",
+              "font-size": "1em",
               "color": "#000000",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "font-family": "'Oswald', sans-serif"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#a38f84"
+              "background": "#4c6972"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#9a8478"
+              "background": "#445e66"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -250,8 +251,8 @@
             "hideButtons": false,
             "sticky": false,
             "transparent": true,
-            "bgColor": "#a38f84",
-            "fontSize": "1.6",
+            "bgColor": "#4c6972",
+            "fontSize": "1",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
@@ -259,7 +260,7 @@
             },
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page3.html\" aria-expanded=\"false\">Angebote</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lachongteeseminar.html#content5-1t\">Teekultur</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#content5-20\" aria-expanded=\"false\" target=\"_blank\">Teeseminare<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lachongkochkultur.html#content5-28\">Kochkultur</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LachongKochkurs.html#content5-2d\" target=\"_blank\">Kochkurse</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Kursanmeldung online</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LachongKochkurs.html#form1-2e\" target=\"_blank\">Kochkurs&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#form1-24\" target=\"_blank\">Teeseminar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lachongstandort.html#contacts2-s\">Kontakt</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lachong_standort.html#contacts2-s\">Facebook</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lachongimpressum.html#content1-1o\">Impressum</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link-outline btn-link\" href=\"lachongstandort.html#contacts2-s\">Standort</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"lachongüberuns.html#header1-10\">Über uns</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page3.html\" aria-expanded=\"false\">Unser Sortiment</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lachongteeseminar.html#content5-1t\">Teekultur</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#content5-20\" aria-expanded=\"false\" target=\"_blank\">Teeseminare<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lachongkochkultur.html#content5-28\">Kochkultur</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LachongKochkurs.html#content5-2d\" target=\"_blank\">Kochkurse</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Kursanmeldung online</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LachongKochkurs.html#form1-2e\" target=\"_blank\">Kochkurs&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#form1-24\" target=\"_blank\">Teeseminar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lachongstandort.html#contacts2-s\">Kontakt</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lachongimpressum.html#content1-1o\">Impressum</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link-outline btn-link\" href=\"lachongstandort.html#contacts2-s\">Standort</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"lachongüberuns.html#header1-10\">Über uns</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -269,16 +270,16 @@
             },
             ".navbar-brand a": {},
             ".nav .link, .dropdown-item": {
-              "font-size": "1.6em",
+              "font-size": "1em",
               "color": "#000000",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "font-family": "'Oswald', sans-serif"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#a38f84"
+              "background": "#4c6972"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#9a8478"
+              "background": "#445e66"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -472,7 +473,12 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-1o"
+          "_anchor": "content1-1o",
+          "_styles": {
+            "P": {
+              "font-size": "14px"
+            }
+          }
         },
         {
           "_inherit": "dropdown-menu",
@@ -482,8 +488,8 @@
             "hideButtons": false,
             "sticky": false,
             "transparent": true,
-            "bgColor": "#a38f84",
-            "fontSize": "1.6",
+            "bgColor": "#4c6972",
+            "fontSize": "1",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
@@ -491,7 +497,7 @@
             },
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page3.html\" aria-expanded=\"false\">Angebote</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lachongteeseminar.html#content5-1t\">Teekultur</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#content5-20\" aria-expanded=\"false\" target=\"_blank\">Teeseminare<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lachongkochkultur.html#content5-28\">Kochkultur</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LachongKochkurs.html#content5-2d\" target=\"_blank\">Kochkurse</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Kursanmeldung online</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LachongKochkurs.html#form1-2e\" target=\"_blank\">Kochkurs&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#form1-24\" target=\"_blank\">Teeseminar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lachongstandort.html#contacts2-s\">Kontakt</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lachong_standort.html#contacts2-s\">Facebook</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lachongimpressum.html#content1-1o\">Impressum</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link-outline btn-link\" href=\"lachongstandort.html#contacts2-s\">Standort</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"lachongüberuns.html#header1-10\">Über uns</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page3.html\" aria-expanded=\"false\">Unser Sortiment</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lachongteeseminar.html#content5-1t\">Teekultur</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#content5-20\" aria-expanded=\"false\" target=\"_blank\">Teeseminare<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lachongkochkultur.html#content5-28\">Kochkultur</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LachongKochkurs.html#content5-2d\" target=\"_blank\">Kochkurse</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Kursanmeldung online</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LachongKochkurs.html#form1-2e\" target=\"_blank\">Kochkurs&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#form1-24\" target=\"_blank\">Teeseminar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lachongstandort.html#contacts2-s\">Kontakt</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lachongimpressum.html#content1-1o\">Impressum</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link-outline btn-link\" href=\"lachongstandort.html#contacts2-s\">Standort</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"lachongüberuns.html#header1-10\">Über uns</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -501,16 +507,16 @@
             },
             ".navbar-brand a": {},
             ".nav .link, .dropdown-item": {
-              "font-size": "1.6em",
+              "font-size": "1em",
               "color": "#000000",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "font-family": "'Oswald', sans-serif"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#a38f84"
+              "background": "#4c6972"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#9a8478"
+              "background": "#445e66"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -536,7 +542,7 @@
           "_anchor": "dropdown-menu-2btn-1n"
         },
         {
-          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"lachong.html#header4-k\" data-toolbar=\"-mbrBtnMove\">Zurück zur Startseite</a>",
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"lachonghome.html#header4-k\" data-toolbar=\"-mbrBtnMove\">Zurück zur Startseite</a>",
           "_tags": [
             "Theme"
           ],
@@ -1006,8 +1012,8 @@
             "hideButtons": false,
             "sticky": false,
             "transparent": true,
-            "bgColor": "#a38f84",
-            "fontSize": "1.6",
+            "bgColor": "#4c6972",
+            "fontSize": "1",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
@@ -1015,7 +1021,7 @@
             },
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page3.html\" aria-expanded=\"false\">Angebote</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lachongteeseminar.html#content5-1t\">Teekultur</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#content5-20\" aria-expanded=\"false\" target=\"_blank\">Teeseminare<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lachongkochkultur.html#content5-28\">Kochkultur</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LachongKochkurs.html#content5-2d\" target=\"_blank\">Kochkurse</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Kursanmeldung online</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LachongKochkurs.html#form1-2e\" target=\"_blank\">Kochkurs&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#form1-24\" target=\"_blank\">Teeseminar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lachongstandort.html#contacts2-s\">Kontakt</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lachong_standort.html#contacts2-s\">Facebook</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lachongimpressum.html#content1-1o\">Impressum</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link-outline btn-link\" href=\"lachongstandort.html#contacts2-s\">Standort</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"lachongüberuns.html#header1-10\">Über uns</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page3.html\" aria-expanded=\"false\">Unser Sortiment</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lachongteeseminar.html#content5-1t\">Teekultur</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#content5-20\" aria-expanded=\"false\" target=\"_blank\">Teeseminare<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lachongkochkultur.html#content5-28\">Kochkultur</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LachongKochkurs.html#content5-2d\" target=\"_blank\">Kochkurse</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Kursanmeldung online</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LachongKochkurs.html#form1-2e\" target=\"_blank\">Kochkurs&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#form1-24\" target=\"_blank\">Teeseminar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lachongstandort.html#contacts2-s\">Kontakt</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lachongimpressum.html#content1-1o\">Impressum</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link-outline btn-link\" href=\"lachongstandort.html#contacts2-s\">Standort</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"lachongüberuns.html#header1-10\">Über uns</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1025,16 +1031,16 @@
             },
             ".navbar-brand a": {},
             ".nav .link, .dropdown-item": {
-              "font-size": "1.6em",
+              "font-size": "1em",
               "color": "#000000",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "font-family": "'Oswald', sans-serif"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#a38f84"
+              "background": "#4c6972"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#9a8478"
+              "background": "#445e66"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -1091,7 +1097,7 @@
         },
         {
           "_params": {
-            "paddingTop": "4",
+            "paddingTop": "3",
             "paddingBottom": "4",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1363x1080.jpg",
@@ -1099,8 +1105,8 @@
             "bgColorRadio": false,
             "bgColor": "#3c3c3c",
             "overlay": true,
-            "overlayColor": "#3c3c3c",
-            "overlayOpacity": "0.8",
+            "overlayColor": "#584c48",
+            "overlayOpacity": "0.7",
             "googleMap": {
               "address": "Lac Hong Karlsruhe",
               "placeId": "ChIJA_QsCkgGl0cRXoQuUhQn41c",
@@ -1109,7 +1115,7 @@
             }
           },
           "text1": "<strong>ADRESSE</strong><br>\nKronenstraße 30<br>Innenstadt-Ost<br>\n76133 Karlsruhe<br><br>\n<b>Kontakt</b><br>\nEmail: lachong@tonline.com<br>\nPhone: +49 721 853911<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li>Facebook</li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.facebook.com/pages/Lac-Hong/842592752546337\" target=\"_blank\" class=\"text-info\">Facebook</a></li></ul>",
           "_tags": [
             "Theme"
           ],
@@ -1142,8 +1148,8 @@
             "hideButtons": false,
             "sticky": false,
             "transparent": true,
-            "bgColor": "#a38f84",
-            "fontSize": "1.6",
+            "bgColor": "#4c6972",
+            "fontSize": "1",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
@@ -1151,7 +1157,7 @@
             },
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page3.html\" aria-expanded=\"false\">Angebote</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lachongteeseminar.html#content5-1t\">Teekultur</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#content5-20\" aria-expanded=\"false\" target=\"_blank\">Teeseminare<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lachongkochkultur.html#content5-28\">Kochkultur</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LachongKochkurs.html#content5-2d\" target=\"_blank\">Kochkurse</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Kursanmeldung online</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LachongKochkurs.html#form1-2e\" target=\"_blank\">Kochkurs&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#form1-24\" target=\"_blank\">Teeseminar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lachongstandort.html#contacts2-s\">Kontakt</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lachong_standort.html#contacts2-s\">Facebook</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lachongimpressum.html#content1-1o\">Impressum</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link-outline btn-link\" href=\"lachongstandort.html#contacts2-s\">Standort</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"lachongüberuns.html#header1-10\">Über uns</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page3.html\" aria-expanded=\"false\">Unser Sortiment</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lachongteeseminar.html#content5-1t\">Teekultur</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#content5-20\" aria-expanded=\"false\" target=\"_blank\">Teeseminare<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lachongkochkultur.html#content5-28\">Kochkultur</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LachongKochkurs.html#content5-2d\" target=\"_blank\">Kochkurse</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Kursanmeldung online</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LachongKochkurs.html#form1-2e\" target=\"_blank\">Kochkurs&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#form1-24\" target=\"_blank\">Teeseminar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lachongstandort.html#contacts2-s\">Kontakt</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lachongimpressum.html#content1-1o\">Impressum</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link-outline btn-link\" href=\"lachongstandort.html#contacts2-s\">Standort</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"lachongüberuns.html#header1-10\">Über uns</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1161,16 +1167,16 @@
             },
             ".navbar-brand a": {},
             ".nav .link, .dropdown-item": {
-              "font-size": "1.6em",
+              "font-size": "1em",
               "color": "#000000",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "font-family": "'Oswald', sans-serif"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#a38f84"
+              "background": "#4c6972"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#9a8478"
+              "background": "#445e66"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -1477,8 +1483,8 @@
             "hideButtons": false,
             "sticky": false,
             "transparent": true,
-            "bgColor": "#a38f84",
-            "fontSize": "1.6",
+            "bgColor": "#4c6972",
+            "fontSize": "1",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
@@ -1486,7 +1492,7 @@
             },
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page3.html\" aria-expanded=\"false\">Angebote</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lachongteeseminar.html#content5-1t\">Teekultur</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#content5-20\" aria-expanded=\"false\" target=\"_blank\">Teeseminare<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lachongkochkultur.html#content5-28\">Kochkultur</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LachongKochkurs.html#content5-2d\" target=\"_blank\">Kochkurse</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Kursanmeldung online</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LachongKochkurs.html#form1-2e\" target=\"_blank\">Kochkurs&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#form1-24\" target=\"_blank\">Teeseminar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lachongstandort.html#contacts2-s\">Kontakt</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lachong_standort.html#contacts2-s\">Facebook</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lachongimpressum.html#content1-1o\">Impressum</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link-outline btn-link\" href=\"lachongstandort.html#contacts2-s\">Standort</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"lachongüberuns.html#header1-10\">Über uns</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page3.html\" aria-expanded=\"false\">Unser Sortiment</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lachongteeseminar.html#content5-1t\">Teekultur</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#content5-20\" aria-expanded=\"false\" target=\"_blank\">Teeseminare<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lachongkochkultur.html#content5-28\">Kochkultur</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LachongKochkurs.html#content5-2d\" target=\"_blank\">Kochkurse</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Kursanmeldung online</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LachongKochkurs.html#form1-2e\" target=\"_blank\">Kochkurs&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#form1-24\" target=\"_blank\">Teeseminar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lachongstandort.html#contacts2-s\">Kontakt</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lachongimpressum.html#content1-1o\">Impressum</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link-outline btn-link\" href=\"lachongstandort.html#contacts2-s\">Standort</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"lachongüberuns.html#header1-10\">Über uns</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1496,16 +1502,16 @@
             },
             ".navbar-brand a": {},
             ".nav .link, .dropdown-item": {
-              "font-size": "1.6em",
+              "font-size": "1em",
               "color": "#000000",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "font-family": "'Oswald', sans-serif"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#a38f84"
+              "background": "#4c6972"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#9a8478"
+              "background": "#445e66"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -1634,8 +1640,8 @@
             "hideButtons": false,
             "sticky": false,
             "transparent": true,
-            "bgColor": "#a38f84",
-            "fontSize": "1.6",
+            "bgColor": "#4c6972",
+            "fontSize": "1",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
@@ -1643,7 +1649,7 @@
             },
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page3.html\" aria-expanded=\"false\">Angebote</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lachongteeseminar.html#content5-1t\">Teekultur</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#content5-20\" aria-expanded=\"false\" target=\"_blank\">Teeseminare<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lachongkochkultur.html#content5-28\">Kochkultur</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LachongKochkurs.html#content5-2d\" target=\"_blank\">Kochkurse</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Kursanmeldung online</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LachongKochkurs.html#form1-2e\" target=\"_blank\">Kochkurs&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#form1-24\" target=\"_blank\">Teeseminar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lachongstandort.html#contacts2-s\">Kontakt</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lachong_standort.html#contacts2-s\">Facebook</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lachongimpressum.html#content1-1o\">Impressum</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link-outline btn-link\" href=\"lachongstandort.html#contacts2-s\">Standort</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"lachongüberuns.html#header1-10\">Über uns</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page3.html\" aria-expanded=\"false\">Unser Sortiment</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lachongteeseminar.html#content5-1t\">Teekultur</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#content5-20\" aria-expanded=\"false\" target=\"_blank\">Teeseminare<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lachongkochkultur.html#content5-28\">Kochkultur</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LachongKochkurs.html#content5-2d\" target=\"_blank\">Kochkurse</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Kursanmeldung online</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LachongKochkurs.html#form1-2e\" target=\"_blank\">Kochkurs&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#form1-24\" target=\"_blank\">Teeseminar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lachongstandort.html#contacts2-s\">Kontakt</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lachongimpressum.html#content1-1o\">Impressum</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link-outline btn-link\" href=\"lachongstandort.html#contacts2-s\">Standort</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"lachongüberuns.html#header1-10\">Über uns</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1653,16 +1659,16 @@
             },
             ".navbar-brand a": {},
             ".nav .link, .dropdown-item": {
-              "font-size": "1.6em",
+              "font-size": "1em",
               "color": "#000000",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "font-family": "'Oswald', sans-serif"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#a38f84"
+              "background": "#4c6972"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#9a8478"
+              "background": "#445e66"
             },
             ".navbar-toggler": {
               "color": "#000000"

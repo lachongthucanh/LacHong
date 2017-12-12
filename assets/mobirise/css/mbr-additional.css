@@ -5,18 +5,18 @@
 }
 #dropdown-menu-2btn-r .nav .link,
 #dropdown-menu-2btn-r .dropdown-item {
-  font-size: 1.6em;
+  font-size: 1em;
   color: #000000;
   font-family: 'Oswald', sans-serif;
 }
 #dropdown-menu-2btn-r .navbar,
 #dropdown-menu-2btn-r .dropdown-menu {
-  background: #a38f84;
+  background: #4c6972;
 }
 #dropdown-menu-2btn-r .dropdown-menu .dropdown-toggle[aria-expanded="true"],
 #dropdown-menu-2btn-r .dropdown-menu a:hover,
 #dropdown-menu-2btn-r .dropdown-menu a:focus {
-  background: #9a8478;
+  background: #445e66;
 }
 #dropdown-menu-2btn-r .navbar-toggler {
   color: #000000;
@@ -38,18 +38,18 @@
 }
 #dropdown-menu-2btn-v .nav .link,
 #dropdown-menu-2btn-v .dropdown-item {
-  font-size: 1.6em;
+  font-size: 1em;
   color: #000000;
   font-family: 'Oswald', sans-serif;
 }
 #dropdown-menu-2btn-v .navbar,
 #dropdown-menu-2btn-v .dropdown-menu {
-  background: #a38f84;
+  background: #4c6972;
 }
 #dropdown-menu-2btn-v .dropdown-menu .dropdown-toggle[aria-expanded="true"],
 #dropdown-menu-2btn-v .dropdown-menu a:hover,
 #dropdown-menu-2btn-v .dropdown-menu a:focus {
-  background: #9a8478;
+  background: #445e66;
 }
 #dropdown-menu-2btn-v .navbar-toggler {
   color: #000000;
@@ -75,18 +75,18 @@
 }
 #dropdown-menu-2btn-16 .nav .link,
 #dropdown-menu-2btn-16 .dropdown-item {
-  font-size: 1.6em;
+  font-size: 1em;
   color: #000000;
   font-family: 'Oswald', sans-serif;
 }
 #dropdown-menu-2btn-16 .navbar,
 #dropdown-menu-2btn-16 .dropdown-menu {
-  background: #a38f84;
+  background: #4c6972;
 }
 #dropdown-menu-2btn-16 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
 #dropdown-menu-2btn-16 .dropdown-menu a:hover,
 #dropdown-menu-2btn-16 .dropdown-menu a:focus {
-  background: #9a8478;
+  background: #445e66;
 }
 #dropdown-menu-2btn-16 .navbar-toggler {
   color: #000000;
@@ -115,23 +115,26 @@
   font-size: 20px;
 }
 
+#content1-1o P {
+  font-size: 14px;
+}
 #dropdown-menu-2btn-1n .hide-buttons [data-button] {
   display: none !important;
 }
 #dropdown-menu-2btn-1n .nav .link,
 #dropdown-menu-2btn-1n .dropdown-item {
-  font-size: 1.6em;
+  font-size: 1em;
   color: #000000;
   font-family: 'Oswald', sans-serif;
 }
 #dropdown-menu-2btn-1n .navbar,
 #dropdown-menu-2btn-1n .dropdown-menu {
-  background: #a38f84;
+  background: #4c6972;
 }
 #dropdown-menu-2btn-1n .dropdown-menu .dropdown-toggle[aria-expanded="true"],
 #dropdown-menu-2btn-1n .dropdown-menu a:hover,
 #dropdown-menu-2btn-1n .dropdown-menu a:focus {
-  background: #9a8478;
+  background: #445e66;
 }
 #dropdown-menu-2btn-1n .navbar-toggler {
   color: #000000;
@@ -555,15 +558,15 @@ H1 {
 .navbar-brand a {
 }
 .nav .link, .dropdown-item {
-  font-size: 1.6em;
+  font-size: 1em;
   color: #000000;
   font-family: 'Oswald', sans-serif;
 }
 .navbar, .dropdown-menu {
-  background: #a38f84;
+  background: #4c6972;
 }
 .dropdown-menu .dropdown-toggle[aria-expanded="true"], .dropdown-menu a:hover, .dropdown-menu a:focus {
-  background: #9a8478;
+  background: #445e66;
 }
 .navbar-toggler {
   color: #000000;
@@ -591,18 +594,18 @@ UL {
 }
 #dropdown-menu-2btn-1z .nav .link,
 #dropdown-menu-2btn-1z .dropdown-item {
-  font-size: 1.6em;
+  font-size: 1em;
   color: #000000;
   font-family: 'Oswald', sans-serif;
 }
 #dropdown-menu-2btn-1z .navbar,
 #dropdown-menu-2btn-1z .dropdown-menu {
-  background: #a38f84;
+  background: #4c6972;
 }
 #dropdown-menu-2btn-1z .dropdown-menu .dropdown-toggle[aria-expanded="true"],
 #dropdown-menu-2btn-1z .dropdown-menu a:hover,
 #dropdown-menu-2btn-1z .dropdown-menu a:focus {
-  background: #9a8478;
+  background: #445e66;
 }
 #dropdown-menu-2btn-1z .navbar-toggler {
   color: #000000;
@@ -653,18 +656,18 @@ UL {
 }
 #dropdown-menu-2btn-2c .nav .link,
 #dropdown-menu-2btn-2c .dropdown-item {
-  font-size: 1.6em;
+  font-size: 1em;
   color: #000000;
   font-family: 'Oswald', sans-serif;
 }
 #dropdown-menu-2btn-2c .navbar,
 #dropdown-menu-2btn-2c .dropdown-menu {
-  background: #a38f84;
+  background: #4c6972;
 }
 #dropdown-menu-2btn-2c .dropdown-menu .dropdown-toggle[aria-expanded="true"],
 #dropdown-menu-2btn-2c .dropdown-menu a:hover,
 #dropdown-menu-2btn-2c .dropdown-menu a:focus {
-  background: #9a8478;
+  background: #445e66;
 }
 #dropdown-menu-2btn-2c .navbar-toggler {
   color: #000000;
@@ -684,18 +687,18 @@ UL {
 }
 #dropdown-menu-2btn-27 .nav .link,
 #dropdown-menu-2btn-27 .dropdown-item {
-  font-size: 1.6em;
+  font-size: 1em;
   color: #000000;
   font-family: 'Oswald', sans-serif;
 }
 #dropdown-menu-2btn-27 .navbar,
 #dropdown-menu-2btn-27 .dropdown-menu {
-  background: #a38f84;
+  background: #4c6972;
 }
 #dropdown-menu-2btn-27 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
 #dropdown-menu-2btn-27 .dropdown-menu a:hover,
 #dropdown-menu-2btn-27 .dropdown-menu a:focus {
-  background: #9a8478;
+  background: #445e66;
 }
 #dropdown-menu-2btn-27 .navbar-toggler {
   color: #000000;
